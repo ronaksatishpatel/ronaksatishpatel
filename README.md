@@ -1,5 +1,3 @@
-# Ronak Patel
-
 ![IAM & Cybersecurity Professional Banner](github-banner-04.jpg)
 
 <!--
